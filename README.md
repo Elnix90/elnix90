@@ -29,7 +29,7 @@
 
 </div>
 
-## 🔭 Current Project | Projet Actuel
+## 🔭 Current Project
 
 ![App Icon](https://github.com/Elnix90/Dragon-Launcher/blob/main/fastlane/metadata/android/en-US/images/icon_rounded_small.png)
 ### **[Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)** - Fast Gesture based android launcher
