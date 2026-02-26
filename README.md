@@ -22,7 +22,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscodium/vscodium-original.svg" height="40" alt="vscodium logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <a href="https://my.numworks.com/python/elnix91">
 <img src="https://github.com/Elnix90/elnix90/blob/main/numworks.png" height="40" width="40" alt="NumWorks"/>
 </a>
