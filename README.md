@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Elnix90?style=social)](https://github.com/Elnix90)
 [![GitHub stars](https://img.shields.io/github/stars/Elnix90?style=social)](https://github.com/Elnix90)
-[![Email](https://img.shields.io/badge/Email-elnix91%40gmail.com-blue?style=flat&logo=google-gmail)](mailto:elnix91@gmail.com)
+[![Email](https://img.shields.io/badge/Email-elnix91%40Proton. me-blue?style=flat&logo=google-gmail)](mailto:elnix91@proton.me)
 ![Profile Views](https://komarev.com/ghpvc/?username=Elnix90&color=blueviolet&style=flat-square)
 
 
