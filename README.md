@@ -3,11 +3,10 @@
   
 ## Hi there 👋, I'm Elnix90
 
-[![GitHub followers](https://img.shields.io/github/followers/Elnix90?style=social)](https://github.com/Elnix90)
-[![GitHub stars](https://img.shields.io/github/stars/Elnix90?style=social)](https://github.com/Elnix90)
-[![Email](https://img.shields.io/badge/Email-elnix91%40proton.me-blue?style=flat&logo=protonmail)](mailto:elnix91@proton.me)
-![Profile Views](https://komarev.com/ghpvc/?username=Elnix90&color=blueviolet&style=flat-square)
-
+[![GitHub followers](https://img.shields.io/github/followers/Elnix90?style=for-the-badge&logo=github)](https://github.com/Elnix90)
+[![GitHub stars](https://img.shields.io/github/stars/Elnix90?style=for-the-badge&logo=github)](https://github.com/Elnix90)
+[![Email](https://img.shields.io/badge/Email-elnix91%40proton.me-blue?style=for-the-badge&logo=protonmail)](mailto:elnix91@proton.me)
+![Profile Views](https://komarev.com/ghpvc/?username=Elnix90&color=blueviolet&style=for-the-badge)
 
 ## I code with
 
@@ -28,25 +27,24 @@
 
 </div>
 
-## 🔭 Current Project
+--- 
+<div align="center">
 
-![App Icon](https://github.com/Elnix90/Dragon-Launcher/blob/main/fastlane/metadata/android/en-US/images/icon_rounded_small.png)
-### **[Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)** - Fast Gesture based android launcher
+# 🔭 Current Project
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Elnix90/Dragon-Launcher?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Elnix90/Dragon-Launcher?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Elnix90/Dragon-Launcher)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Elnix90/Dragon-Launcher)
-![GitHub last commit](https://img.shields.io/github/last-commit/Elnix90/Dragon-Launcher)
 
-### Features
-* Launch apps by gesture
-* Fully customizable
-* Privacy first: **No internet access**
+<img src="https://github.com/Elnix90/Dragon-Launcher/blob/60e6a8a50312d18eb9342fcd9a1e9fd12eead6a1/core/common/src/main/res/drawable/dragon_launcher_foreground.png" width="22%" alt="App Icon"/>
 
+# Dragon Launcher - Fast Gesture based android launcher
+
+[![GitHub release](https://img.shields.io/github/v/release/Elnix90/Dragon-Launcher.svg?include_prereleases&style=for-the-badge)](https://github.com/Elnix90/Dragon-Launcher/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/Elnix90/Dragon-Launcher?style=for-the-badge)](https://github.com/Elnix90/Dragon-Launcher/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Elnix90/Dragon-Launcher?style=for-the-badge)](https://github.com/Elnix90/Dragon-Launcher/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Elnix90/Dragon-Launcher?style=for-the-badge)](https://github.com/Elnix90/Dragon-Launcher/forks)
+
+</div>
 
 ---
-
 
 <div align="center">
   
