@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscodium/vscodium-original.svg" height="40" alt="vscodium logo"  />
 <img width="12" />
 <a href="https://my.numworks.com/python/elnix91">
-<img src="https://github.com/Elnix90/elnix90/blob/main/numworks.png" height="40" width="40" alt="NumWorks"/>
+<img src="https://raw.githubusercontent.com/Elnix90/elnix90/2ca02973b93d093420c6278b08502f9246bba1b7/numworks.png" height="40" width="40" alt="NumWorks"/>
 </a>
 
 </div>
