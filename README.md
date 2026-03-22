@@ -33,9 +33,11 @@
 # 🔭 Current Project
 
 
-<img src="https://github.com/Elnix90/Dragon-Launcher/blob/60e6a8a50312d18eb9342fcd9a1e9fd12eead6a1/core/common/src/main/res/drawable/dragon_launcher_foreground.png" width="22%" alt="App Icon"/>
+<a href="https://github.com/Elnix90/Dragon-Launcher">
+  <img src="https://raw.githubusercontent.com/Elnix90/Dragon-Launcher/60e6a8a50312d18eb9342fcd9a1e9fd12eead6a1/core/common/src/main/res/drawable/dragon_launcher_foreground.png" width="22%" alt="Dragon Launcher icon"/>
+</a>
 
-# Dragon Launcher - Fast Gesture based android launcher
+# [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher) - Fast Gesture based android launcher
 
 [![GitHub release](https://img.shields.io/github/v/release/Elnix90/Dragon-Launcher.svg?include_prereleases&style=for-the-badge)](https://github.com/Elnix90/Dragon-Launcher/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Elnix90/Dragon-Launcher?style=for-the-badge)](https://github.com/Elnix90/Dragon-Launcher/stargazers)
