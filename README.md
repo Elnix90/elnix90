@@ -19,6 +19,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscodium/vscodium-original.svg" height="40" alt="vscodium logo"  />
 <img width="12" />
 <a href="https://my.numworks.com/python/elnix91">
