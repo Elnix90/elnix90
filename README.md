@@ -56,6 +56,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elnix90&theme=tokyonight)
 
+![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=27068&api_domain=hackatime.hackclub.com&theme=material-palenight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnix90&layout=compact&theme=tokyonight&langs_count=8)
 
 </div>
